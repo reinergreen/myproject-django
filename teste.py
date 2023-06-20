@@ -1,2 +1,0 @@
-a = 'palmeiras'
-print(a)
